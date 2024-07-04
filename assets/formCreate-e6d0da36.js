@@ -1,0 +1,2 @@
+const u=e=>JSON.stringify(e.value.getOption()),a=e=>{const s=e.value.getRule(),n=[];return s.forEach(o=>{n.push(JSON.stringify(o))}),n},t=e=>{const s=[];return e.forEach(n=>{s.push(JSON.parse(n))}),s},l=(e,s,n)=>{e.value.setOption(JSON.parse(s)),e.value.setRule(t(n))},r=(e,s,n,o)=>{e.value.option=JSON.parse(s),e.value.rule=t(n),o&&(e.value.value=o)};export{l as a,a as b,u as e,r as s};
+//# sourceMappingURL=formCreate-e6d0da36.js.map

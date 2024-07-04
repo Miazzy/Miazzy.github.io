@@ -1,0 +1,2 @@
+import{a5 as a}from"./index.js";function r(e){return a.get({url:"/baseset/oa-leave/page",params:e},{isOnlyResult:!0})}function s(e){return a.get({url:"/baseset/oa-leave/get?id="+e},{isOnlyResult:!0})}function o(e){return a.post({url:"/baseset/oa-leave/create",data:e})}function u(e){return a.download({url:"/baseset/oa-leave/export-excel",params:e},"OA 请假申请.xls")}export{s as a,o as c,u as e,r as g};
+//# sourceMappingURL=index-37d352b6.js.map

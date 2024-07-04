@@ -1,0 +1,2 @@
+import{d as o,Z as a,_,$ as t,ad as i,R as c}from"./vue-71d1abb3.js";import{_ as n}from"./index.js";const r={class:"subtitle-bar"},l={class:"left-section"},d={class:"subtitle"},u={class:"right-section"},p=o({__name:"SubtitleBar",props:{subtitle:{type:String,default:""}},setup(e){return(s,b)=>(a(),_("div",r,[t("div",l,[t("div",d,i(e.subtitle),1)]),t("div",u,[c(s.$slots,"default",{},void 0,!0)])]))}});const v=n(p,[["__scopeId","data-v-93ac4264"]]);export{v as S};
+//# sourceMappingURL=SubtitleBar-001f5f49.js.map

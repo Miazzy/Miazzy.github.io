@@ -1,0 +1,2 @@
+import{d as m,e as n,Z as a,a9 as s,aa as c,ac as i,h as p}from"./vue-71d1abb3.js";import u from"./LockPage-8b0cf783.js";import{u as f}from"./lock-1ad68095.js";import"./index.js";import"./antd-15ac76ed.js";import"./header-55b09394.js";const h=m({__name:"index",setup(d){const e=f(),r=n(()=>{var o,t;return(t=(o=e==null?void 0:e.getLockInfo)==null?void 0:o.isLock)!=null?t:!1});return(o,t)=>(a(),s(p,{name:"fade-bottom",mode:"out-in"},{default:c(()=>[r.value?(a(),s(u,{key:0})):i("",!0)]),_:1}))}});export{h as default};
+//# sourceMappingURL=index-c053e817.js.map

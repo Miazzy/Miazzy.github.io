@@ -1,0 +1,2 @@
+import{d as a,al as o,Z as t,_,f as s,u as n}from"./vue-71d1abb3.js";import{ah as c}from"./antd-15ac76ed.js";import{_ as p}from"./index.js";const m={class:"no-data"},r=a({__name:"NoData",setup(d){return(f,i)=>{const e=o("a-empty");return t(),_("div",m,[s(e,{image:n(c).PRESENTED_IMAGE_SIMPLE},null,8,["image"])])}}});const N=p(r,[["__scopeId","data-v-88dfceb8"]]);export{N};
+//# sourceMappingURL=NoData-1ab5cc7b.js.map

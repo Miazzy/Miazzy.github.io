@@ -1,0 +1,2 @@
+import{d as s,Z as c,_ as r,$ as t,ad as a,a6 as l}from"./vue-71d1abb3.js";import{_ as n}from"./index.js";const _={class:"data-indicator"},d={class:"label-text"},i=s({__name:"DataIndicator",props:{label:{type:String,default:""},value:{type:Number,default:0},color:{type:String,default:"#1890FF"}},setup(o){const e=o;return(p,u)=>(c(),r("div",_,[t("div",{class:"number-text",style:l(`color: ${e.color}`)},a(e.value),5),t("div",d,a(e.label),1)]))}});const v=n(i,[["__scopeId","data-v-5fe3b817"]]);export{v as D};
+//# sourceMappingURL=DataIndicator-9c21ed00.js.map

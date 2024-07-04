@@ -1,0 +1,2 @@
+var u=(e,r,s)=>new Promise((i,n)=>{var l=t=>{try{o(s.next(t))}catch(a){n(a)}},m=t=>{try{o(s.throw(t))}catch(a){n(a)}},o=t=>t.done?i(t.value):Promise.resolve(t.value).then(l,m);o((s=s.apply(e,r)).next())});import{a5 as p}from"./index.js";const y=e=>u(void 0,null,function*(){const r={url:"/system/org/list-tree",params:e};return p.post(r,{isOnlyResult:!0})});export{y as g};
+//# sourceMappingURL=index-33af41d1.js.map

@@ -1,0 +1,2 @@
+import{a5 as u}from"./index.js";function l(e){return u.get({url:"/system/code-build-rule/page",params:e},{isOnlyResult:!0})}function d(e){return u.get({url:"/system/code-build-rule/get?id="+e},{isOnlyResult:!0})}function r(e){return u.post({url:"/system/code-build-rule/create",data:e})}function s(e){return u.put({url:"/system/code-build-rule/update",data:e})}function i(e){return u.delete({url:"/system/code-build-rule/delete?id="+e})}export{d as a,r as c,i as d,l as g,s as u};
+//# sourceMappingURL=index-ef0d8f76.js.map

@@ -1,0 +1,2 @@
+import{a5 as t}from"./index.js";function r(e){return t.get({url:"/po/equipment-inventory-dtl/page",params:e},{isOnlyResult:!0})}function u(e){return t.get({url:"/po/equipment-inventory-dtl/inventoryId",params:e},{isOnlyResult:!0})}function o(e){return t.delete({url:"/po/equipment-inventory-dtl/delete?id="+e})}function i(e){return t.download({url:"/po/equipment-inventory-dtl/export-excel",params:e},{isReturnNativeResponse:!0})}export{u as a,o as d,i as e,r as g};
+//# sourceMappingURL=index-e3dac917.js.map
